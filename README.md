@@ -95,7 +95,6 @@ The classifier works with various types of images. Here are some examples from t
 
 2. **Prepare your images:**
    - Place your images in the `images/` folder.
-   - Each image should be named after its class, e.g. `cat.jpg`, `dog.jpg`, etc.
 
 3. **Run the script:**
    ```bash
