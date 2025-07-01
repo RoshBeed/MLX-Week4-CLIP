@@ -16,6 +16,7 @@ venv/
 
 
 #Flicker data
+flickr30k_images.zip
 CrowdFlowerAnnotations.txt
 ExpertAnnotations.txt
 Flicker8k_Dataset/
