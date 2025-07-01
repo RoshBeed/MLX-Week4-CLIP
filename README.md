@@ -47,7 +47,7 @@ graph TD
     T --> U[Classification Result]
     
     %% Output
-    U --> V[Print Results<br/>"cat: best match is 'a photo of a cat' (score: 30.380)"]
+    U --> V[Print Classification Results]
     
     %% Styling
     classDef inputBox fill:#e1f5fe,stroke:#01579b,stroke-width:2px
