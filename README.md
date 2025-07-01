@@ -65,16 +65,6 @@ graph TD
 
 The classifier works with various types of images. Here are some examples from the dataset:
 
-<div align="center">
-
-![Cat](images/cat.jpg) ![Dog](images/dog.jpg) ![Horse](images/horse.jpg) ![Bird](images/bird.jpg)
-
-![Car](images/car.jpg) ![Person](images/person.jpg) ![Tree](images/tree.jpg) ![House](images/house.jpg)
-
-![Book](images/book.jpg) ![Phone](images/phone.jpg)
-
-</div>
-
 - cat: best match is 'a photo of a cat' (score: 30.380)
 - dog: best match is 'a photo of a dog' (score: 35.998)
 - horse: best match is 'a photo of a horse' (score: 36.964)
@@ -85,6 +75,16 @@ The classifier works with various types of images. Here are some examples from t
 - house: best match is 'a photo of a house' (score: 29.412)
 - book: best match is 'a photo of a book' (score: 40.067)
 - phone: best match is 'a photo of a phone' (score: 32.127)
+
+<div align="center">
+
+![Cat](images/cat.jpg) ![Dog](images/dog.jpg) ![Horse](images/horse.jpg) ![Bird](images/bird.jpg)
+
+![Car](images/car.jpg) ![Person](images/person.jpg) ![Tree](images/tree.jpg) ![House](images/house.jpg)
+
+![Book](images/book.jpg) ![Phone](images/phone.jpg)
+
+</div>
 
 ## Setup
 
