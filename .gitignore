@@ -1,5 +1,5 @@
 # Ignore Jupyter notebooks
-*.ipynb
+#*.ipynb
 
 # Ignore Python cache and virtual environment
 __pycache__/
@@ -13,3 +13,18 @@ venv/
 
 # Ignore test outputs or logs (optional)
 *.log
+
+
+#Flicker data
+CrowdFlowerAnnotations.txt
+ExpertAnnotations.txt
+Flicker8k_Dataset/
+Flickr8k.lemma.token.txt
+Flickr8k.token.txt
+Flickr8k_Dataset.zip
+Flickr8k_text.zip
+Flickr_8k.devImages.txt
+Flickr_8k.testImages.txt
+Flickr_8k.trainImages.txt
+__MACOSX/
+readme.txt
