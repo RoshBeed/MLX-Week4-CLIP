@@ -1,0 +1,15 @@
+# Ignore Jupyter notebooks
+*.ipynb
+
+# Ignore Python cache and virtual environment
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore test outputs or logs (optional)
+*.log
